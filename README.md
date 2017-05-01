@@ -1,0 +1,3 @@
+# StaggeredText
+It is an Application of how to make a Staggered Text Design.
+Below is an image which shows you how it will loks like ............
